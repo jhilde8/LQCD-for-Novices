@@ -5,7 +5,7 @@ Exercises:
   1D quantum mechanics 
     - solving the QHO path integral numerically using Monte Carlo Integration ia the Vegas package. 
     - Solving the QHO path integral numerically using a Metropolis algorithm
-    - Improving the metropolis calculation by utilizing binning, bootstrapping, and improved action. 
+    - Improving the metropolis calculation by utilizing binning, bootstrapping, improved action, ghost improvement. 
     
   Field Theory on a Lattice
    - Solving the gluonic path integral using a metropolis algorithm, measuring axa wilson loops and ax2a wilson loops. 
