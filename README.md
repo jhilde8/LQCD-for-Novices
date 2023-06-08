@@ -12,7 +12,7 @@ Exercises:
    - Calculating static quark potential in the heavy quark limit as a function of separation between the quarks. 
 
 
-  
+  Mainly done in python. the final two exercises are redone in C++. 
   
 
 
